@@ -2,6 +2,7 @@ Hi. My name is Jacob Grant.
 I am a Full Stack Web Developer, always seeking opportunities to serve and collaborate with other diligent workers.
 
 🔷️🔷️ Technical Experience 🔷️🔷️
+
 I was professionally trained by Bethel School of Technology, and am always exploring other internet resources for new ideas and guidance.
 I have coding experience with:
 🔷️ JavaScript, TypeScript
