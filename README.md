@@ -1,18 +1,18 @@
 Hi. My name is Jacob Grant.
 
-I am a Full Stack Web Developer, always seeking opportunities to serve and collaborate with other diligent workers.
+I am a Full Stack Web Developer, specializing Front End Work in React, always seeking opportunities to serve and collaborate with other diligent workers obsessed with delivering an excellent customer experience.
 
 
 
 My Preferred Tech Stack (but I'm open to learning what's needed):
 
-💻 Front End: Angular (TypeScript)
+💻 Front End: React
 
-⚙️ Back End: dotNet (C Sharp)
+⚙️ Back End: NextJS
 
 📂 Database: SQL
 
-📡 Deployment: Github, AWS, considering Firebase
+📡 Deployment: Github, Netlify, considering Firebase
 
 ⌨️ IDE: VS Code
 
@@ -23,7 +23,7 @@ My Preferred Tech Stack (but I'm open to learning what's needed):
 I was professionally trained by Bethel School of Technology, and am always exploring other internet resources for new ideas and guidance.
 I have coding experience with:
 
-🔷️ JavaScript, TypeScript
+🔷️ JavaScript, TypeScript, JSX
 
 🔷️ C# (C Sharp)
 
@@ -31,21 +31,19 @@ I have coding experience with:
 
 🔷️ SQL
 
-🔷️ Angular
+🔷️ React/Angular
 
-🔷️ .NET (dotNET)
+🔷️ NextJS/NodeJS/dotNET
 
 
 
 I have also received training in:
 
-🔷️ Agile Project Management
-
-🔷️ Scrum
+🔷️ Agile Project Management / Scrum
 
 🔷️ GitHub
 
-🔷️ Web Security
+🔷️ Figma
 
 
 
