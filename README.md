@@ -1,6 +1,6 @@
 Hi. My name is Jacob Grant.
 
-I am a Full Stack Web Developer, specializing in Front End Work using React.
+I am a Full Stack Web Developer, mostly specializing in the Front End experience.
 
 
 
